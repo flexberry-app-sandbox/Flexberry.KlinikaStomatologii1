@@ -1,0 +1,47 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Кабинет",
+      "projection": "КабинетL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Клиент",
+      "projection": "КлиентL",
+      "detailModelName": null
+    },
+    {
+      "master": "услуга",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "ОказаниеУслуг.Услуга",
+      "projection": "УслугаL",
+      "detailModelName": "i-i-s-klinika-stomatologii-оказание-услуг"
+    },
+    {
+      "master": "сотрудник",
+      "displayAttributeName": "фамилия",
+      "required": true,
+      "relationName": "ОказаниеУслуг.Сотрудник",
+      "projection": "СотрудникL",
+      "detailModelName": "i-i-s-klinika-stomatologii-оказание-услуг"
+    }
+  ],
+  "external": false,
+  "caption": "Запись",
+  "name": "IISKlinikaStomatologiiЗаписьE",
+  "className": "ЗаписьE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-klinika-stomatologii-запись",
+      "modelProjection": "ЗаписьE"
+    }
+  ]
+}

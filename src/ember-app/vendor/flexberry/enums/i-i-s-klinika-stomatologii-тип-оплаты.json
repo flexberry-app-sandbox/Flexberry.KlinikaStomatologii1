@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.KlinikaStomatologii",
+  "className": "ТипОплаты",
+  "enumObjects": {
+    "Наличные": "",
+    "Картой": ""
+  }
+}

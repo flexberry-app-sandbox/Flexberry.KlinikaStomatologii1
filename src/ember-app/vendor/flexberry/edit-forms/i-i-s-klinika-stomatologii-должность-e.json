@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Должность",
+  "name": "IISKlinikaStomatologiiДолжностьE",
+  "className": "ДолжностьE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-klinika-stomatologii-должность",
+      "modelProjection": "ДолжностьE"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Регистр записи",
+  "name": "IISKlinikaStomatologiiРегистрЗаписиE",
+  "className": "РегистрЗаписиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-klinika-stomatologii-регистр-записи",
+      "modelProjection": "РегистрЗаписиE"
+    }
+  ]
+}

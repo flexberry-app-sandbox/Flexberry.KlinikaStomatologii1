@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Запись",
+      "projection": "ЗаписьL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Оплата",
+  "name": "IISKlinikaStomatologiiОплатаE",
+  "className": "ОплатаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-klinika-stomatologii-оплата",
+      "modelProjection": "ОплатаE"
+    }
+  ]
+}

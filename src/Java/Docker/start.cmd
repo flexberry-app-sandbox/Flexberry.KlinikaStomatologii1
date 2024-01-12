@@ -1,0 +1,1 @@
+docker-compose -p klinikastomatologii-java up -d

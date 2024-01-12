@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-klinika-stomatologii-материал-e",
+  "editForm": "i-i-s-klinika-stomatologii-материал-e",
+  "external": false,
+  "caption": "Материал",
+  "name": "IISKlinikaStomatologiiМатериалL",
+  "className": "МатериалL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-klinika-stomatologii-материал",
+      "modelProjection": "МатериалL"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.KlinikaStomatologii",
+  "className": "Единицы",
+  "enumObjects": {
+    "Шт": "",
+    "Гр": "",
+    "М": ""
+  }
+}

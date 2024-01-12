@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-klinika-stomatologii-должность-e",
+  "editForm": "i-i-s-klinika-stomatologii-должность-e",
+  "external": false,
+  "caption": "Должность",
+  "name": "IISKlinikaStomatologiiДолжностьL",
+  "className": "ДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-klinika-stomatologii-должность",
+      "modelProjection": "ДолжностьL"
+    }
+  ]
+}

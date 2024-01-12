@@ -1,0 +1,85 @@
+﻿{
+  "applicationCaption": "Klinika stomatologii",
+  "applicationTitle": "Klinika stomatologii",
+  "items": [
+    {
+      "link": null,
+      "menuName": "klinika-stomatologii",
+      "caption": "KlinikaStomatologii",
+      "title": "KlinikaStomatologii",
+      "children": [
+        {
+          "link": "i-i-s-klinika-stomatologii-кабинет-l",
+          "menuName": null,
+          "caption": "Кабинет",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-производитель-l",
+          "menuName": null,
+          "caption": "Производитель",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-материал-l",
+          "menuName": null,
+          "caption": "Материал",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-запись-l",
+          "menuName": null,
+          "caption": "Запись",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-оплата-l",
+          "menuName": null,
+          "caption": "Оплата",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-услуга-l",
+          "menuName": null,
+          "caption": "Услуга",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-klinika-stomatologii-регистр-записи-l",
+          "menuName": null,
+          "caption": "Регистр записи",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

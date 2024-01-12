@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-klinika-stomatologii-регистр-записи-e",
+  "editForm": "i-i-s-klinika-stomatologii-регистр-записи-e",
+  "external": false,
+  "caption": "Регистр записи",
+  "name": "IISKlinikaStomatologiiРегистрЗаписиL",
+  "className": "РегистрЗаписиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-klinika-stomatologii-регистр-записи",
+      "modelProjection": "РегистрЗаписиL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-klinika-stomatologii-оплата-e",
+  "editForm": "i-i-s-klinika-stomatologii-оплата-e",
+  "external": false,
+  "caption": "Оплата",
+  "name": "IISKlinikaStomatologiiОплатаL",
+  "className": "ОплатаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-klinika-stomatologii-оплата",
+      "modelProjection": "ОплатаL"
+    }
+  ]
+}
